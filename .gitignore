@@ -1,0 +1,5 @@
+# Default ignored files
+/search-service.iws
+
+# Project exclude paths
+/target/
