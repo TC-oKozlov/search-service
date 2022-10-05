@@ -17,7 +17,7 @@
 
     <properties>
         <!--		<java.version>11</java.version>-->
-        <pulsar.version>2.4.2</pulsar.version>
+        <pulsar.version>2.7.5</pulsar.version>
         <camel.version>3.0.1</camel.version>
         <camel-spring-boot-starter.version>3.0.0-RC3</camel-spring-boot-starter.version>
     </properties>
